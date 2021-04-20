@@ -1,5 +1,7 @@
 # Memos
 
 ## Index
-* os-distrib
+* **langages**
+  * Plantuml
+* **os-distrib**
   * Linux Permissions
